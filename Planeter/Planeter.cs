@@ -61,6 +61,7 @@ namespace Planeterne
         {
             foreach (Planet item in Planets)
             {
+                
                 if (item.Name == name)
                 {
                    
