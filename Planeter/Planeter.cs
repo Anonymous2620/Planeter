@@ -74,7 +74,7 @@ namespace Planeterne
         {
             
             /* Pluto details         PlanetName     Mass           Diameter    Density     Gravity     RotationPeriod   LengthOfDay   DistanceFromSun    OrbitalPeriod     OrbitalVelocity   MeanTemperature   NumberOfMoons   RingSystem      */
-            Planets.Add(new Planet(       "Pluto",       0.0146,        2370,       2095,       0.7,        -153.3,         153.3,          5906.4,           90.56,            4.7,              -225,             5,              true));
+            Planets.Add(new Planet(  "Pluto",       0.0146,        2370,       2095,       0.7,        -153.3,         153.3,          5906.4,           90.56,            4.7,              -225,             5,              true));
         }
         public static void RemovePlanets()
         {
